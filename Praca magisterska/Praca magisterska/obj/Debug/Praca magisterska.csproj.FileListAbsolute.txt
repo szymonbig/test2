@@ -1,0 +1,10 @@
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\bin\Debug\Praca magisterska.exe.config
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\bin\Debug\Praca magisterska.exe
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\bin\Debug\Praca magisterska.pdb
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca magisterska.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca_magisterska.Form1.resources
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca_magisterska.Properties.Resources.resources
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca magisterska.csproj.GenerateResource.cache
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca magisterska.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca magisterska.exe
+C:\Users\Szymon\Documents\Praca magisterska\Praca magisterska\Praca magisterska\obj\Debug\Praca magisterska.pdb
